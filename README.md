@@ -1,0 +1,2 @@
+# SOLVING_WORD_PUZZLE_USING_SAS
+SOLVING WORD PUZZLE USING SAS  Using sas base functions ,do loop &amp; arrays created code to find the word puzzle 'Words' .And locate the directions in which 'Words' found in row fashion (In horizontal direction) or column (In vertical fashion) or in right cross direction (Fron top left to bottom right) or left cross directions(top right to bottom left direction) and all its possible revese directions.
